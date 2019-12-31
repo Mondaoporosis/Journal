@@ -1,5 +1,5 @@
-import ".styles.css";
-import buildingsData from ".list.js";
+// import ".styles.css";
+import buildingsData from "./list.js";
 
 // Some constant strings
 const SECURITY_CHECK = " CONDUCTS SECURITY CHECK AT BLDG. ";
